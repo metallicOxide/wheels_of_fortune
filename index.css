@@ -1,0 +1,14 @@
+
+
+.row {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.page-title {
+    margin-bottom: 25px;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#b21f2d, #343a40);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
